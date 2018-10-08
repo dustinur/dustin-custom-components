@@ -1,5 +1,5 @@
 <template>
-  <v-toolbar dense m5>
+  <v-toolbar dense mb5>
     <v-toolbar-title>Server Status</v-toolbar-title>
   </v-toolbar>
 </template>
